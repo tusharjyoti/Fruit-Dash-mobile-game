@@ -15,5 +15,7 @@ Instructions to run the Fruit Dash Mobile Game on your emulator ----
 
 **Make sure your AVD is running on the background.
 
+** The game increases its speed after scoring 15 points, then again upon scoring 15 points it increases its speed.
+
 NOTE: Nodejs , JS , android studio should be installed.
  
